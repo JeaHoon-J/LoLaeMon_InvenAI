@@ -28,8 +28,8 @@
 ## 🔹 구현 프로세스
 
 1. LLM을 활용한 **창의적 발명 시뮬레이션** 구현  
-2. 한국어-영어 기술 문서 데이터셋(AIHub)을 기반으로 **RAG(Retrieval-Augmented Generation)** 구조 실습  
-3. HuggingFace 임베딩 모델과 **Chroma DB**를 활용한 **Vector Store** 구축 및 Lag 형성  
+2. 한국어-영어 기술 문서 데이터셋(AIHub)을 기반으로 **RAG(Retrieval-Augmented Generation)** 구조 구현
+3. HuggingFace 임베딩 모델과 **Chroma DB**를 활용한 **Vector Store** 구축
 4. 체계적인 **프롬프트 설계**를 통한 LLM 제어 및 게임적 인터랙션 구현  
 5. Streamlit UI를 통해 실시간 발명과 코인, 히스토리 관리 기능 제공  
 
