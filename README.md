@@ -81,4 +81,6 @@
    - 실시간 발명 결과 출력 및 사이드바 상태 관리
 
 ---
+## 🔹 Streamlit 구현 결과
+<img width="1729" height="868" alt="구현화면" src="https://github.com/user-attachments/assets/a4a622ec-02e2-4233-a255-9df69a61902f" />
 
